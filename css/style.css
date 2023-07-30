@@ -1,0 +1,52 @@
+.system{
+    width: 60%;
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
+body{
+    font-family: "Titillium Web", sans-serif;
+    background: rgb(36, 53, 63);
+}
+h1{
+    color: rgb(23, 162, 184);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+
+}
+input{
+    background-color: transparent !important;
+ 
+    
+    
+}
+input::placeholder{
+    color: rgba(255, 255, 255, 0.5) !important;
+    
+    
+}
+.width{
+    width: 85% ;
+}
+.box{
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+
+}
+.hight{
+    height: 500px
+}
+.message{
+    height: 40%;
+    width: 65%;
+    /* font-family: "Titillium Web", sans-serif; */
+    background: rgb(36, 53, 63);
+    color: rgb(23, 162, 184);
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+
+
+ 
+    
+}
